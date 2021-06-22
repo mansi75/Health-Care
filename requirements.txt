@@ -36,7 +36,7 @@ cufflinks==0.17.3
 cvlib==0.2.5
 cycler==0.10.0
 cymem==2.0.5
-dataclasses==0.8
+
 decorator==4.4.2
 defer==1.0.6
 defusedxml==0.6.0
