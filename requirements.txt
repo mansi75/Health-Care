@@ -218,14 +218,13 @@ tangled-up-in-unicode==0.0.6
 tb-nightly==2.5.0a20201118
 tensorboard==1.14.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
+
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
 
 tf-estimator-nightly==2.4.0.dev2020102301
-tf-nightly==2.5.0.dev20201118
+
 thinc==8.0.1
 threadpoolctl==2.1.0
 ThreshIt==0.0.1
