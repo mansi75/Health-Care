@@ -169,7 +169,7 @@ PyRect==0.1.4
 pyRFC3339==1.0
 pyrsistent==0.16.0
 PyScreeze==0.1.26
-python-apt==1.6.5+ubuntu0.6
+
 python-dateutil==2.6.1
 python-debian==0.1.32
 python-xlib==0.29
