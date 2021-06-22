@@ -212,7 +212,7 @@ spacy-legacy==3.0.1
 srsly==2.4.0
 streamlit==0.78.0
 sumy==0.8.1
-system-service==0.3
+
 systemd-python==234
 tangled-up-in-unicode==0.0.6
 tb-nightly==2.5.0a20201118
